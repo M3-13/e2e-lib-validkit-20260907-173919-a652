@@ -1,0 +1,3 @@
+VERDICT: PASS
+
+Die Testsuite läuft vollständig durch: `pytest` meldet **143 passed in 0.16s** mit Exit-Code 0. Es sind keine Fehlschläge, Tracebacks oder Console-Fehler im Bericht enthalten. Der Lauf deckt die neun geforderten Funktionen, Importierbarkeit/Exporte, Grenzwerte (1024 Zeichen), Fehlerfälle und die Sicherheitsprüfung auf verbotene Aufrufe ab. Ein Server-/CLI-Smoke ist für diese reine Bibliothek korrekt als `[n/a]` markiert — es gibt keinen Einstiegspunkt, der gestartet werden müsste. Die Kernfunktionalität entspricht der Spezifikation; es liegen keine beobachtbaren Laufzeitfehler vor.
